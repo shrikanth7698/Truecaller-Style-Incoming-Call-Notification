@@ -2,10 +2,15 @@
 
 
 This an app which will display the card which contains contact details (phone number, contact photo, contact name) of the incoming call. 
-If the incoming call number is already in saved contacts, it will display the card containing the above mentioned details. 
+<br>
+If the incoming call number is already in saved contacts, it will display the card containing the above mentioned details.
+<br>
 Otherwise it will show only the number and a message "Unknown number" .
+<br>
 Card will be displayed even when device is locked. 
-You can either swipe left to reject the call or swipe right to dismiss the card.
+<br>
+You can change content of dialog to anything your want.
+<br>
 
 <img src="https://drive.google.com/uc?id=19glTiOSq-8u33c1toWFHEdthuAW9x5xh" width="400">
 
